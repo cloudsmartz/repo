@@ -1,4 +1,4 @@
 repo
 ====
 
-this is repo repositery for cloudsmartz
+this is repo repositery for cloudsmartzused for demo purpose.
